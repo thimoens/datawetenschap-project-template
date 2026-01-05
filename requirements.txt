@@ -1,5 +1,5 @@
-# Modules
-requests
+# Hier zet ik de basis modules naar
+request
 beautifulsoup4
 numpy
 pandas
