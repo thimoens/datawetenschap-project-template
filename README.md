@@ -37,7 +37,7 @@ Dit is mijn basis template voor al mijn Datawetenschap projecten.
     │    
     ├── modellering                
     │   ├── __init__.py 
-    │   ├── predict.py          <- Code om model te gebruiken in voorspellen    
+    │   ├── voorspel.py         <- Code om model te gebruiken in voorspellen    
     │   └── train.py            <- Code om modellen te trainen
     │
     ├── plots.py                <- Code om visualisaties te maken
